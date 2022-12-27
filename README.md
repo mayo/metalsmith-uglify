@@ -1,3 +1,5 @@
+I no longer use this project and do not maintain the code.
+
 # metalsmith-uglify
 
 [![NPM version](http://img.shields.io/npm/v/metalsmith-uglify.svg)](https://www.npmjs.org/package/metalsmith-uglify)
